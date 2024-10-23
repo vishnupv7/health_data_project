@@ -1,0 +1,6 @@
+primary_diagnosis,total_patients,total_readmitted,readmission_rate
+"Heart Disease",955,175,18.3246
+COPD,1009,187,18.5332
+Diabetes,1015,198,19.5074
+"Kidney Disease",1035,206,19.9034
+Hypertension,978,174,17.7914

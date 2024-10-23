@@ -1,0 +1,5 @@
+age,gender,primary_diagnosis,num_procedures,days_in_hospital,comorbidity_score,discharge_to,readmitted,COUNT(*)
+79,Male,Diabetes,3,8,1,"Rehabilitation Facility",0,2
+33,Female,"Heart Disease",1,1,1,Home,0,2
+49,Male,"Heart Disease",2,6,1,Home,0,2
+56,Male,"Heart Disease",3,5,4,"Home Health Care",0,2
